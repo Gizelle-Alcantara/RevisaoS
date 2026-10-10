@@ -1,0 +1,15 @@
+LÓGICA EM FOCO — REVISÃO SAEP
+
+COMO USAR
+1. Estude os 20 módulos, responda às questões e faça o simulado.
+2. Os resultados ficam no armazenamento local do navegador (localStorage).
+
+ESTRUTURA
+index.html — página principal
+styles.css — estilos e visual responsivo
+conteudos.js — ementa, explicações, exemplos e questões
+app.js — navegação, provas e progresso
+
+NOTA: Conteúdo de revisão abrangente, organizado conforme temas usuais de Lógica de Programação. Não constitui reprodução ou matriz oficial do SAEP. As questões são autorais.
+
+Não requer servidor ou banco de dados. Internet é opcional: a fonte online utiliza fallback local.
